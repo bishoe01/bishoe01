@@ -1,5 +1,4 @@
 ![header1](https://capsule-render.vercel.app/api?type=wave&color=00BFB8&height=150&section=header&text=Bishoe&fontSize=90&fontColor=ffffff)
-![header2](https://capsule-render.vercel.app/api?type=rect&color=00BFB8&height=150&section=header&text=Frontend%20Developer&fontSize=70&fontColor=ffffff)
 
 
 
