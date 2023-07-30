@@ -4,11 +4,6 @@
 
 
 
-
-
-<!--
-**bishoe01/bishoe01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <h2>🎓 학력</h2>
 
 <ul>
@@ -36,11 +31,10 @@
 
 
 ## 📫 연락처
-  
-이메일: a6gongi@naver.com
-[![Velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@bishoe01)
-[![Portfolio](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://silicon-airmail-dde.notion.site/0b211719b80546eebdeee03f31be5ef9?pvs=4)
-
+     
+a6gongi@naver.com <br>
+[![Velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@bishoe01)<br>
+[![Portfolio](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://silicon-airmail-dde.notion.site/0b211719b80546eebdeee03f31be5ef9?pvs=4)<br>
 
 
 ## ✏️ 기술 스택
