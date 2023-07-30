@@ -43,12 +43,6 @@
 
 
 
-
-🔭 현재 저는 REACT로 모바일 웹을 개발하는 프론트엔드 개발자입니다.
-🌱 현재 저는 tailwindcss를 자주 활용해 Typescript로 개발하는 프로젝트를 진행중입니다.
-
-
-
 ## ✏️ 기술 스택
 
 ## 언어
@@ -93,7 +87,7 @@
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"> 
-  <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
+  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
 </div>
 
 
