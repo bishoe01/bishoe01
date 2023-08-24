@@ -103,11 +103,9 @@ a6gongi@naver.com <br>
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishoe01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-![Bishoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishoe01&show_icons=true&theme=tokyonight&count_private=true)
+<img height="180em" src="https://github-readme-stats-in6sa3pxl-bishoe01.vercel.app/api?username=DevJaewoo&show_icons=true" />
+<img height="180em" src="https://github-readme-stats-in6sa3pxl-bishoe01.vercel.app/api/top-langs/?username=DevJaewoo&layout=compact&hide=jupyter%20notebook" />
 
 
 
