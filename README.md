@@ -18,8 +18,10 @@
   <li>2023 ~ 2023.08: <strong>UMC 4기 WEB파트</strong> - 아마추어 이스포츠 대회 플랫폼 프론트엔드 개발 (Typescript)</li>
   <li>2023 ~ 2023.10: <strong>멋쟁이사자처럼 FrontEnd파트</strong> - 디지털 격차를 해소하기 위한 노년층 도우미 매칭 웹 어플리케이션 개발(React)</li>
   <li>2023.07 ~ 2023.10: <strong>오픈소스 컨트리뷰션 아카데미 2023 (Githru-vscode-ext팀 View 파트)</strong> - 데이터 시각화(D3.js,Typescript,Vscode Extension)</li>
-  <li>2023 ~ 2023.10(현재): <strong>Mr.Qr</strong> - QR 코드를 통한 식당 메뉴 주문 어플리케이션 / 웹 프론트엔드 개발 (React,Typescript,Tailwindcss,Next.js,React-Native)</li>
+  
 </ul>
+
+
 
 <h2>🏆 수상 경력</h2>
 
@@ -29,6 +31,12 @@
 </ul>
 
 
+<h2>💼경력</h2>
+
+<ul>
+  <li>2023 ~ 2023.11(현재): <strong>Mr.Qr</strong> - QR 코드를 통한 식당 메뉴 주문 어플리케이션 / 웹 프론트엔드 개발 /모바일 웹앱 (React,Typescript,Tailwindcss,Next.js)</li>
+  <li>2023.10~ 2024.01 : <strong>Coupang Fullfillment Service</strong> - 쿠팡 풀필먼트 서비스 단기직 채용 포털 기획 및 개발 (node.js, React.js,Typescript) </li> 
+</ul>
 
 
 
