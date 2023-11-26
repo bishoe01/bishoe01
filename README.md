@@ -35,7 +35,7 @@
 
 <ul>
   <li>2023 ~ 2023.11(현재): <strong>Mr.Qr</strong> - QR 코드를 통한 식당 메뉴 주문 어플리케이션 / 웹 프론트엔드 개발 /모바일 웹앱 (React,Typescript,Tailwindcss,Next.js)</li>
-  <li>2023.10~ 2024.01 : <strong>Coupang Fullfillment Service</strong> - 쿠팡 풀필먼트 서비스 단기직 채용 포털 기획 및 개발 (node.js, React.js,Typescript) </li> 
+  <li>2023.10~ 2023.12.27 : <strong>Coupang Fullfillment Service</strong> - 쿠팡 풀필먼트 서비스 단기직 채용 포털 기획 및 개발 (node.js, React.js,Typescript) </li> 
 </ul>
 
 
