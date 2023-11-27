@@ -17,7 +17,7 @@
   <li>2022.01 ~ 2022.03: <strong>메타버스 플랫폼 챌린지</strong> - UNITY를 활용하여 학교 배경을 활용한 메타버스 플랫폼 개발(Unity)</li>
   <li>2023 ~ 2023.08: <strong>UMC 4기 WEB파트</strong> - 아마추어 이스포츠 대회 플랫폼 프론트엔드 개발 (Typescript)</li>
   <li>2023 ~ 2023.10: <strong>멋쟁이사자처럼 FrontEnd파트</strong> - 디지털 격차를 해소하기 위한 노년층 도우미 매칭 웹 어플리케이션 개발(React)</li>
-  <li>2023.07 ~ 2023.10: <strong>오픈소스 컨트리뷰션 아카데미 2023 (Githru-vscode-ext팀 View 파트)</strong> - 데이터 시각화(D3.js,Typescript,Vscode Extension)</li>
+  <li>2023.07 ~ 2023.9: <strong>오픈소스 컨트리뷰션 아카데미 2023 (Githru-vscode-ext팀 View 파트)</strong> - 데이터 시각화(D3.js,Typescript,Vscode Extension)</li>
   
 </ul>
 
