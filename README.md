@@ -67,7 +67,6 @@ a6gongi@naver.com <br>
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"> 
 </div>
 
 ## 데이터 시각화
@@ -82,7 +81,7 @@ a6gongi@naver.com <br>
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"> 
 </div>
 
-## 빌드/번들링 도구
+## 빌드/번들링
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black">
@@ -97,11 +96,9 @@ a6gongi@naver.com <br>
 </div>
 
 
-## 애니메이션 도구
+## 애니메이션
 <div style="display:flex; flex-direction:row;">
         <img src="https://img.shields.io/badge/framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"> 
-    <img src="https://img.shields.io/badge/React Spring-6DB33F?style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/Anime.js-2C3A47?style=for-the-badge&logo=javascript&logoColor=white">
 </div>
 
 ## 기타
