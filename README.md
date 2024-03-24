@@ -28,6 +28,7 @@
 <ul>
   <li>2023.05.20: <strong>UMC 중앙 아이디어톤</strong> 1등 (디자인)</li>
   <li>2023.05.27: <strong>WRTN PROMPTHON (뤼튼 프롬프톤)</strong> 카테고리 우수상</li>
+  <li>2023.11.19: <strong>2023 교내 창업 경진대회 장려상 (모바일 QR 오더 창업 동아리 - 프론트엔드/기획 기여)</li>
 </ul>
 
 
