@@ -46,7 +46,7 @@
      
 a6gongi@naver.com <br>
 [![Velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@bishoe01)<br>
-[![Portfolio](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://silicon-airmail-dde.notion.site/0b211719b80546eebdeee03f31be5ef9?pvs=4)<br>
+
 
 ## 체스 
 [![♟️Chess.com](https://img.shields.io/badge/lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/@/a6gongi)
