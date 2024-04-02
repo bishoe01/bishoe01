@@ -21,8 +21,6 @@
   
 </ul>
 
-
-
 <h2>🏆 수상 경력</h2>
 
 <ul>
@@ -40,13 +38,10 @@
   <li>2023.11~ 2024.02.29 : <strong>소프트스퀘어드</strong> - 외주 ( 상구독 하이브리드 웹앱 & 어드민페이지 개발 ) (Next/React.js,Typescript) </li> 
 </ul>
 
-
-
 ## 📫 연락처
      
 a6gongi@naver.com <br>
 [![Velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@bishoe01)<br>
-
 
 ## 체스 
 [![♟️Chess.com](https://img.shields.io/badge/lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/@/a6gongi)
@@ -83,30 +78,14 @@ a6gongi@naver.com <br>
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"> 
 </div>
 
-## 빌드/번들링
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black">
-    <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black">
-</div>
-
 ## 디자인
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"> 
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
 </div>
-
 
 ## 애니메이션
 <div style="display:flex; flex-direction:row;">
         <img src="https://img.shields.io/badge/framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"> 
-</div>
-
-## 기타
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </div>
 
 
