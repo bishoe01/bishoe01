@@ -1,6 +1,6 @@
-![header1](https://capsule-render.vercel.app/api?type=wave&color=00BFB8&height=150&section=header&text=Bishoe&fontSize=90&fontColor=ffffff)
-
-
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Bishoe01&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FrontEnd%20Developer&descAlignY=51&descAlign=62"/>
+</p>
 
 
 <h2>🎓 학력</h2>
