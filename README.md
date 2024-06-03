@@ -43,9 +43,6 @@
 a6gongi@naver.com <br>
 [![Velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@bishoe01)<br>
 
-## 체스 
-[![♟️Chess.com](https://img.shields.io/badge/lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/@/a6gongi)
-
 ## ✏️ 기술 스택
 
 ## 언어
@@ -57,7 +54,7 @@ a6gongi@naver.com <br>
 
 ## 상태관리
 <div style="display:flex; flex-direction:row;">
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/zustand-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </div>
 
 ## 프레임워크
@@ -66,27 +63,12 @@ a6gongi@naver.com <br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
 </div>
 
-## 데이터 시각화
-<div style="display:flex; flex-direction:row;">
-<img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white"> 
-<img src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"> 
-</div>
-
-## 배포
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"> 
-</div>
 
 ## 디자인
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
 </div>
 
-## 애니메이션
-<div style="display:flex; flex-direction:row;">
-        <img src="https://img.shields.io/badge/framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"> 
-</div>
 
 
 ## Stats
