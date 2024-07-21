@@ -30,8 +30,6 @@
   <img height="180em" src="https://github-readme-stats-in6sa3pxl-bishoe01.vercel.app/api?username=bishoe01&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-in6sa3pxl-bishoe01.vercel.app/api/top-langs/?username=bishoe01&layout=compact&theme=radical&hide=jupyter%20notebook" />
 </p>
-<h3 align="center">📈 Contribution Graph</h3>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
