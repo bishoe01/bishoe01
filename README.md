@@ -11,7 +11,7 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  프론트엔드 개발자로, UI 프레임워크에 관심을 가지고 있습니다.<br>
+  프론트엔드 개발자로, UI 프레임워크에 관심이 있습니다.<br>
 </p>
 
 <h3 align="center">🛠 Tech Stack</h3>
