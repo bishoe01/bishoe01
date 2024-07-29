@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Bishoe01&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Creative%20FrontEnd%20Developer&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Bishoe01&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FrontEnd%20Developer&descAlignY=51&descAlign=62"/>
 </p>
 <p align="center">
   <a href="mailto:a6gongi@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
