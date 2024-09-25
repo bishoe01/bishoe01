@@ -5,7 +5,7 @@
   <a href="mailto:a6gongi@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://velog.io/@bishoe01"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbishoe01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  <a href="https://silicon-airmail-dde.notion.site/RESUME-51c34ec030814b3b90ab95af01c3abcb?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://www.notion.so/__-10c1ef7e320e808ab087cec5f4bd498e?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </p>
 
 <h3 align="center">🚀 About Me</h3>
