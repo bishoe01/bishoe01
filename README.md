@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Bishoe01&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FrontEnd%20Developer&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Bishoe01&fontSize=90&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer&descAlignY=51&descAlign=62"/>
 </p>
 <p align="center">
   <a href="mailto:a6gongi@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -11,13 +11,13 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  프론트엔드 / UI 프레임워크에 관심이 있습니다.<br>
+  iOS 개발자 <br>
 </p>
 
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=swift,react,figma&theme=light" />
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
