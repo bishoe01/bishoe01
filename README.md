@@ -14,7 +14,7 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  iOS Developer
+  Ai-native Developer
 </p>
 
 <h3 align="center">🛠 Tech Stack</h3>
